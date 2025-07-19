@@ -13,7 +13,7 @@
 - Data Analysis (Introductory course)
 - Tools like Excel
 - Python, and data visualization techniques
-- Power Bi
+- Power Bi,Sql
 
 ---
 
