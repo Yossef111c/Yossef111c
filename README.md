@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Yossef Saad</h1>
 
 <p align="center">
-  🎓 Aspiring Data Analyst | 💻 Learning C++ & Data Analysis <br>
+  🎓 Aspiring Data Analyst | 💻 Completed a C++ course <br>
   🏫 Student at Ain Shams University, Faculty of Commerce <br>
-  📚 Currently taking an introductory course in Data Analysis <br>
+  📚 Currently learning Data Analysis <br>
   🚀 Passionate about turning data into insights
 </p>
 
@@ -11,8 +11,9 @@
 
 ### 🌱 Currently Learning
 - Data Analysis (Introductory course)
-- Intro to Programming in C++
-- Tools like Excel, Python, and data visualization techniques
+- Tools like Excel
+- Python, and data visualization techniques
+- Power Bi
 
 ---
 
