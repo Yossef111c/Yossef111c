@@ -1,16 +1,12 @@
-## my name is yossef👋
-
-<!--
-**Yossef111c/Yossef111c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://vaaski.dev">
+		<!---->
+		<!-- dig into how this was made here: -->
+		<!-- https://github.com/vaaski/vaaski.dev/blob/2024/components/svg-hero.server.vue -->
+		<!---->
+		<!-- you can also see the generated version here: -->
+		<!-- https://vaaski.dev/static-svg -->
+		<!---->
+    <img src="space-logo.svg" />
+  </a>
+</div>
