@@ -43,11 +43,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yossef417)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yossef202)
 
-<p align="center">
-  <a href="https://www.facebook.com/yossef.saad.925" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Follow me on Facebook"/>
-  </a>
-</p>
-
-
 
