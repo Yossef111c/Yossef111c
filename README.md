@@ -36,15 +36,6 @@
 
 ### 📫 Connect With Me
 
-- 📧 Email: [yossefsaadcr7@gmail.com](mailto:yossefsaadcr7@gmail.com)
-- 💼 LinkedIn: [Yossef Saad](https://www.linkedin.com/in/yossef-saad-7065aa275/)
-- 📱 WhatsApp: [+201558377068](https://wa.me/201558377068)
-- 🎵 TikTok: [@yossefsaadapoarp](https://www.tiktok.com/@yossefsaadapoarp)
-- 📸 Instagram: [@yossef417](https://www.instagram.com/yossef417)
-- 💬 Telegram: [@yossef202](https://t.me/yossef202)
-
-### 📫 Connect With Me
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yossefsaadcr7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yossef-saad-7065aa275/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201558377068)
