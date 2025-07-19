@@ -2,6 +2,7 @@
 
 <p align="center">
   🎓 Aspiring Data Analyst | 💻 Learning C++ & Data Analysis <br>
+  🏫 Student at Ain Shams University, Faculty of Commerce <br>
   📚 Currently taking an introductory course in Data Analysis <br>
   🚀 Passionate about turning data into insights
 </p>
