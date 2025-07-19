@@ -10,7 +10,7 @@
 
 ### 🌱 Currently Learning
 - Data Analysis (Introductory course)
-- Programming in C++
+- Intro to Programming in C++
 - Tools like Excel, Python, and data visualization techniques
 
 ---
@@ -37,7 +37,7 @@
 ### 📫 Connect With Me
 
 - 📧 Email: [yossefsaadcr7@gmail.com](mailto:yossefsaadcr7@gmail.com)
-- 💼 LinkedIn: [Youssef Saad](https://www.linkedin.com/in/yossef-saad-7065aa275/)
+- 💼 LinkedIn: [Yossef Saad](https://www.linkedin.com/in/yossef-saad-7065aa275/)
 - 📱 WhatsApp: [+201558377068](https://wa.me/201558377068)
 
 
