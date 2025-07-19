@@ -39,6 +39,10 @@
 - 📧 Email: [yossefsaadcr7@gmail.com](mailto:yossefsaadcr7@gmail.com)
 - 💼 LinkedIn: [Yossef Saad](https://www.linkedin.com/in/yossef-saad-7065aa275/)
 - 📱 WhatsApp: [+201558377068](https://wa.me/201558377068)
+- 🎵 TikTok: [@yossefsaadapoarp](https://www.tiktok.com/@yossefsaadapoarp)
+- 📸 Instagram: [@yossef417](https://www.instagram.com/yossef417)
+- 💬 Telegram: [@yossef202](https://t.me/yossef202)
+
 
 
 
