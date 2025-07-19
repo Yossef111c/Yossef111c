@@ -35,6 +35,7 @@
 ---
 
 ### 📫 Connect With Me
-- 📧 Email: youssef@example.com <!-- حط إيميلك الحقيقي هنا لو حابب -->
-- 💼 LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/) <!-- حط لينكدإن لو عندك -->
+- 📧 Email: yossefsaadcr7@gmail.com <!-- حط إيميلك الحقيقي هنا لو حابب -->
+- 💼 LinkedIn: [YourLinkedInProfile](https://www.linkedin.com)/
+/) <!-- حط لينكدإن لو عندك -->
 
