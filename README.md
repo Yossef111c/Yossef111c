@@ -35,7 +35,10 @@
 ---
 
 ### 📫 Connect With Me
-- 📧 Email: yossefsaadcr7@gmail.com <!-- حط إيميلك الحقيقي هنا لو حابب -->
-- 💼 LinkedIn: [YourLinkedInProfile](https://www.linkedin.com)/
-/) <!-- حط لينكدإن لو عندك -->
+
+- 📧 Email: [yossefsaadcr7@gmail.com](mailto:yossefsaadcr7@gmail.com)
+- 💼 LinkedIn: [Youssef Saad](https://www.linkedin.com/in/yossef-saad-7065aa275/)
+- 📱 WhatsApp: [+201558377068](https://wa.me/201558377068)
+
+
 
