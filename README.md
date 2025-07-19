@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Youssef Saad</h1>
+<h1 align="center">Hi there 👋, I'm Yossef Saad</h1>
 
 <p align="center">
   🎓 Aspiring Data Analyst | 💻 Learning C++ & Data Analysis <br>
@@ -24,11 +24,11 @@
 
 ---
 
-### ☕ follow Me
+### ☕ Follow Me on Facebook
+
 <p align="center">
-  <a href="https://www.facebook.com/yossef.saad.925//me//Yossef111c">
-    <img src="https://www.facebook.com/yossef.saad.925/
-/buttons/v2/default-blue-white.png" height="50" width="210" alt="follow me Facebook" />
+  <a href="https://www.facebook.com/yossef.saad.925" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Follow me on Facebook"/>
   </a>
 </p>
 
